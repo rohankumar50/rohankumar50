@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohankumar
 - 👀 I’m a web developer 
 - 🌱 I’m currently learning reactjs
-- 📫 How to connect with me mail me on rohankumarchs@gmail.com
+- 📫 Mail me at rohankumarchs@gmail.com
 
 <!---
 rohankumar50/rohankumar50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
