@@ -24,9 +24,6 @@ I look forward to enhancing my skill and experience to excel in my career along 
 <a href="https://instagram.com/rohankumar_50" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/rohankumar50" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
 
 <!---
 rohankumar50/rohankumar50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
